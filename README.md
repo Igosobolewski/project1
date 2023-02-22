@@ -7,4 +7,4 @@ Niestacjonarne
 
 Instrukcja:
 
-Kliknąć na project1/Open in Integrated Terminal (Powershell)/npm start
+Sklonować kod z repozytorium/Otworzyć Zintegrowany Terminal w VSC/Wpisać komendę git clone "https://github.com/Igosobolewski/project1.git"/Kliknąć na project1/Open in Integrated Terminal (Powershell)/npm start
